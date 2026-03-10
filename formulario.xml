@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="formulario.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<usuarios>
+    <usuario>
+        <nombreUsuario>alejandro_morlun</nombreUsuario>
+        <email>alejandromoreno.25@campuscamara.es</email>
+        <telefono>603454345</telefono>
+        <codigoPostal>41089</codigoPostal>
+        <contrasena>pAsword123!</contrasena>
+    </usuario>
+    <usuario>
+        <nombreUsuario>fernando</nombreUsuario>
+        <email>avecren.25@campuscamara.es</email>
+        <telefono>663777928</telefono>
+        <codigoPostal>41002</codigoPostal>
+        <contrasena>casiAprbo732*</contrasena>
+    </usuario>
+    <usuario>
+        <nombreUsuario>moreno</nombreUsuario>
+        <email>moreno.25@campuscamara.es</email>
+        <telefono>613373999</telefono>
+        <codigoPostal>41089</codigoPostal>
+        <contrasena>pAsMail123!</contrasena>
+    </usuario>
+</usuarios>
